@@ -80,4 +80,4 @@ Preference Discovery: Highlighted dominant artists and albums contributing to ov
 Data Storytelling: Transformed raw playback logs into structured analytical insights.<br>
 6️⃣ Screenshot of Dashboard <br>
 
-![Overview Dashboard](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-analytics-dashboard.jpg)<br>
+![Overview Dashboard](https://github.com/ShubhamW1107/spotify-listening-analytics-dashboard/blob/main/Spotify_Dashboard.jpg)<br>
